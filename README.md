@@ -8,9 +8,7 @@ Mainly for when I'm running D&D, I can keep status information on the bottom.
 
 ## How to I install?
 
-Once it has been added to the repo, you'll be able to install with winget.
-
-Alternatively, you may download the application from the release page.
+You can download the application from the release page on the side.
 
 ## Are there dependencies?
 
