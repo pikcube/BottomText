@@ -54,7 +54,7 @@ It's a click one installer, so it installed in your app directory folder.
 
 Download visual studio, clone the repo, and open the .sln. There aren't any dependencies that aren't just nuget packages.
 
-## Can I fork this
+## Can I fork this?
 
 I guess?
 
