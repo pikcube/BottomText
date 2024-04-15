@@ -8,7 +8,10 @@ Mainly for when I'm running D&D, I can keep status information on the bottom.
 
 ## How to I install?
 
-You can download the application from the release page on the side.
+[Click Here to go to the download page](https://pikcube.com/BottomText/)
+
+## Why don't you also host a copy on github itself?
+I don't want to. I can click one button in VS and it pushes the new version directly to the website. Setting up an automation of new github packages would just be really annoying.
 
 ## Are there dependencies?
 
