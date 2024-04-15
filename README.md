@@ -11,7 +11,7 @@ Mainly for when I'm running D&D, I can keep status information on the bottom.
 [Click Here to go to the download page](https://pikcube.com/BottomText/)
 
 ## Why don't you also host a copy on github itself?
-I don't want to. I can click one button in VS and it pushes the new version directly to the website. Setting up an automation of new github packages would just be really annoying.
+I don't want to. I can click one button in VS and it pushes the new version directly to the website. Setting up an automation to also generate a new github release would be really annoying.
 
 ## Are there dependencies?
 
